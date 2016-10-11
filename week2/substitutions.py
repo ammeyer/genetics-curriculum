@@ -18,6 +18,9 @@ def translate_rna(sequence):
 	"""
 	pass
 
+
+# this may be for the second day
+
 def random_substitution(sequence):
 	"""
 	Replaces a random base position in the input string with a different base, 
@@ -25,9 +28,19 @@ def random_substitution(sequence):
 	"""
 	pass
 
-
-def count_synonymous(sequence, num_trials):
+def is_synonymous(sequence1, sequence2):
 	"""
-	Run 100 trials in which we simulate a random substitution, 
+	Return True if the two DNA sequences produce the same amino acid sequence,
+	and False otherwise. 
+	"""
+	pass
+
+def count_synonymous(sequence, num_trials=100):
+	"""
+	Run 100 trials in which we simulate a random substitution, and count how 
+	many of the random substitutions result in a nonsynonymous vs
+	synonymous(silent) mutation.
+	"""
+	pass
 
 
