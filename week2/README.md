@@ -1,4 +1,4 @@
-# herp-interns/week2
+# genetics-curriculum/week2
 Week 2: The Central Dogma (Replication, Transcription, Translation), Mutation  
 
 ### Tuesday, Nov 1

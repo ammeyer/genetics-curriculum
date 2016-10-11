@@ -45,13 +45,16 @@ def mutate_sequence(sequence, subs_rate, ins_rate, del_rate):
 	print(mutated)
 	return mutated
 
-mutate_sequence("AAAAAAAAAAAA", 0.00001, 0.0000005, 0.0000005)
+# mutate_sequence("AAAAAAAAAAAA", 0.00001, 0.0000005, 0.0000005)
 
-def mutate_over_generations(sequence, num_generations):
-	pass
-
-def translate(sequence):
-	pass
+def mutate_over_generations(sequence, num_generations, subs_rate=0.00001, ins_rate=0.000005, del_rate=0.000005):
+	"""
+	Simulates mutating a sequence over num_generations generations and
+	returns the mutated sequence.
+	"""
+	for i in range(num_generations):
+		sequence = mutate_sequence(sequence, subs_rate, ins_rate, del_rate)
+	return sequence
 
 
 

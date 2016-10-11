@@ -1,4 +1,4 @@
-# herp-interns/week1
+# genetics-curriculum/week1
 Week 1: Intros, Expectations, goals for the year, & evolution big picture stuff  
 
 ### Tuesday, Oct 25
