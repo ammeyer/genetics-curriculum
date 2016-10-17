@@ -2,11 +2,11 @@
 Week 1: Intros, Expectations, goals for the year, & evolution big picture stuff  
 
 ### Tuesday, Oct 25
-- Intros again  
-- Icebreaker  
-- Expectations and goals for the year  
-- Discussion: What is research?
-- Lab tour!
+- Intros again  (5 min)
+- Icebreaker  (10 min)
+- Lab tour!  (45 min)
+- Expectations and goals for the year  (30 min)
+- Discussion: What is research?  (30 min)
 
 #### Expectations and goals for the year
 - Individual activity: On a piece of paper, I want you to write down a) one goal you have for these internships b) one academic goal (school or class related) and c) one personal goal you have for this school year. 
@@ -17,6 +17,7 @@ Week 1: Intros, Expectations, goals for the year, & evolution big picture stuff
   * Attendance: 3 excused and 3 unexcused. Email me beforehand. Share email/phone #
   * Check your email at least twice a week!
   * Treat each other with respect  
+  * Participation from everyone!
 
 ##### Goals: 
   * By the end of the year, you will all understand the motivation behind the research, what the main questions are and how the code you are writing helps address those questions.
@@ -32,12 +33,19 @@ Week 1: Intros, Expectations, goals for the year, & evolution big picture stuff
 
 
 ### Thursday, Oct 27
-- Icebreaker/biology review!
-- Evolution big picture stuff  
-- Candy bar activity BECAUSE HALLOWEEN!  
+- Icebreaker/biology review! (30 min)
+- Evolution big picture stuff  (30 min)
+- Candy bar activity BECAUSE HALLOWEEN! (1 hr)  
+- If extra time, go around museum as well
 
 #### Icebreaker
-Introduce yourself again. In pairs, match each of the biology terms to its definition. First team to match them all correctly wins!
+Introduce yourself again. In pairs, match each of the biology terms to its definition. First team to match them all correctly wins!  
+Terms: Prokaryote, Eukaryote, Nucleus, Mitochondria, DNA, RNA, Nucleotide, Protein, Transcription, Translation, Mitosis, Meiosis, etc.
+Lead into discussion about everyone's background in biology.
 
-#### Evolution big picture: See slides
+#### Evolution big picture: See slides.
+Questions to ask: How old is the earth? How old is the earliest life on earth? What did early forms of life look like? How old are the dinosaurs? How old are humans? Build a timeline.
+How is all of the life on earth today related?
+https://en.wikipedia.org/wiki/Timeline_of_the_evolutionary_history_of_life/
+https://www.newscientist.com/article/dn17453-timeline-the-evolution-of-life/
 Then candy bar activity!

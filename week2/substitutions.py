@@ -1,4 +1,10 @@
 # substitutions.py
+def count_bases(sequence):
+	"""
+	Returns a count of how many of each nucleotide (A,C,T,G) exist in the DNA sequence.
+	"""
+	pass
+
 def complement(sequence):
 	"""
 	Returns the reverse complement of a sequence of DNA.

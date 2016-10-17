@@ -7,4 +7,8 @@ Week 3: Genes/Genomes/Mitochondrial Genomes
 
 ### Thursday, Nov 10  
 
-- Discussion: Genes, Genomes, mtDNA  
+- Discussion: What is a gene? What is a genome? In a genome, what are the different types of DNA? What does a mitochondrial genome look like and how is it different from a nuclear genome? Why are mitochondrial genomes useful to study?
+- Discussion: Heredity
+	- Vocab: Allele, Gene, Dominant, Recessive, Heterozygous, Homozygous, Genotype, Phenotype
+- Worksheet or Exercise: Probability
+
