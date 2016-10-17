@@ -40,12 +40,12 @@ Week 1: Intros, Expectations, goals for the year, & evolution big picture stuff
 
 #### Icebreaker
 Introduce yourself again. In pairs, match each of the biology terms to its definition. First team to match them all correctly wins!  
-Terms: Prokaryote, Eukaryote, Nucleus, Mitochondria, DNA, RNA, Nucleotide, Protein, Transcription, Translation, Mitosis, Meiosis, etc.
+Terms: Prokaryote, Eukaryote, Nucleus, Mitochondria, DNA, RNA, Nucleotide, Protein, Transcription, Translation, Mitosis, Meiosis, etc.  
 Lead into discussion about everyone's background in biology.
 
 #### Evolution big picture: See slides.
-Questions to ask: How old is the earth? How old is the earliest life on earth? What did early forms of life look like? How old are the dinosaurs? How old are humans? Build a timeline.
-How is all of the life on earth today related?
-https://en.wikipedia.org/wiki/Timeline_of_the_evolutionary_history_of_life/
-https://www.newscientist.com/article/dn17453-timeline-the-evolution-of-life/
+Questions to ask: How old is the earth? How old is the earliest life on earth? What did early forms of life look like? How old are the dinosaurs? How old are humans? Build a timeline.  
+How is all of the life on earth today related?  
+https://en.wikipedia.org/wiki/Timeline_of_the_evolutionary_history_of_life/  
+https://www.newscientist.com/article/dn17453-timeline-the-evolution-of-life/  
 Then candy bar activity!
