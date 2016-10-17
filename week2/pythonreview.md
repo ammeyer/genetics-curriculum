@@ -1,6 +1,7 @@
 # Python review
 
-What happens when you run the following lines of code?
+### Review the Python interpreter!
+What happens when you run the following lines of code in a Python interpreter?
 
 ```python
 >>> print("Hello World") #1
@@ -15,5 +16,19 @@ What happens when you run the following lines of code?
 >>> interns + 'Carolyn' #9
 >>> interns + ['Carolyn'] #10
 ```
+
+### Defining functions
+
+Write your solutions in Sublime Text or any other text editor of your choosing.
+
+##### Beginner
+
+Write a function named `square` that returns the square of any number.
+
+##### Intermediate
+
+Write a function named `favorite_color` that, given the name of any of the herp interns, returns their favorite color as a string. (You will have to ask your fellow interns for this information!)
+
+##### Advanced
 
 
