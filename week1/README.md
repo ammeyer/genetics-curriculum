@@ -45,7 +45,25 @@ Lead into discussion about everyone's background in biology.
 
 #### Evolution big picture: See slides.
 Questions to ask: How old is the earth? How old is the earliest life on earth? What did early forms of life look like? How old are the dinosaurs? How old are humans? Build a timeline.  
-How is all of the life on earth today related?  
+- Origin of the earth
+- Origin of the first life forms (single celled!)
+- The three kingdoms: Eukarya, Archaea, Bacteria (Bonus: What is the difference between prokaryote and eukaryote?)
+- Origin of multicellular life
+- Origin of animals
+- Cambrian Explosion, Dinosaurs
+- Humans
+
+How is all of the life on earth today related? How do we know this??   
+- Fossil record
+- Other geological/geochemical evidence
+- DNA!!!
+
+Why can knowing about evolution help us today? What is the motivation for this entire field of research?
+- Biodiversity - preserve animals/plants and prevent them from going extinct
+- What if you don't care about animals? Preventing human disease: SIV/HIV
+- Learning about human origins and genetic ancestry
+- Medicine: Understanding how bacteria and viruses evolve (very rapidly) can help us develop more efficient drugs
+
 https://en.wikipedia.org/wiki/Timeline_of_the_evolutionary_history_of_life/  
 https://www.newscientist.com/article/dn17453-timeline-the-evolution-of-life/  
 Then candy bar activity!
